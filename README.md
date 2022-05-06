@@ -1,13 +1,13 @@
 # Instalacion-y-configuracion-Nginx
 
-##Instalacion NGINX
+## Instalacion NGINX
 1. Abrimos la tarminal de ubuntu y introducimos el siguiente comando.
 ![imagen](https://github.com/R4F31/Instalacion-y-configuracion-Nginx/blob/main/Ngnix/1.PNG)
 
 2.Una vez ya instalado para verificar que se ha instalado correctamente abriremos el navegador web y en el buscador introducimos localhost y nos tiene que aparecer la siguiente pagina
 ![imagen](https://github.com/R4F31/Instalacion-y-configuracion-Nginx/blob/main/Ngnix/2.PNG)
 
-##Configuración NGINX
+## Configuración NGINX
 
 1.En la consola iremos al directorio etc/nginx
 ![imagen](https://github.com/R4F31/Instalacion-y-configuracion-Nginx/blob/main/Ngnix/3.PNG)
@@ -36,7 +36,7 @@
 
 10.Introducimos el codigo html dentro del directorio que hemos creado y lo tenemos que guardar como index.html
 
-##Resultado final
+## Resultado final
 1.Iremos a nuestro navegador web y introduciremos el url de nuestras paginas. En mi caso es prueba1.nginx/index.html y prueba2.nginx/index.html . Si hemos realizado todas las configuraciones correctamente nos deberian salir las dos paginas que hemos creado.
 ![imagen](https://github.com/R4F31/Instalacion-y-configuracion-Nginx/blob/main/Ngnix/12.PNG)
 ![imagen](https://github.com/R4F31/Instalacion-y-configuracion-Nginx/blob/main/Ngnix/13.PNG)
